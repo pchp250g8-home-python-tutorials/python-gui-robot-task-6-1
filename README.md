@@ -7,7 +7,6 @@ The robot's field is 4 cells long and 4 cells wide. It has blue walls around its
 A corridor is created using a square measuring 3 cells long and 3 cells wide, in which the robot is located.
 The robot's starting position is marked with a blue square. 
 The robot's final position is marked with a red house. 
-The painted cells of the field are marked with a large orange square.
 The task is to move the robot from its starting position to its final position. (see figures). 
 Solve the problem for all robot environments (write a common code).
 The solution of the task is located in the file "Task-6-1.py".
@@ -19,11 +18,10 @@ RobotTask-6-1. Занятия по Python. Исполнитель Робот. П
 Двумя прямоугольниками размером длиной 2 клетки и шириной 3 клетки, расположенными слева и справа, создан коридор, в котором находится робот.
 Вторая обстановка:
 Поле робота имеет размеры: длина 5 клеток, ширина 3 клетки. Оно имеет синие стены по периметру. 
-Прямоугольником слева размером длиной 1 клетка и шириной 3 клетки и прямоугольником справа размером длиной 3 клетки и шириной 3 клетки создан коридор, 
+Прямоугольником слева размером длиной 1 клетка и шириной 3 клетки и прямоугольником справа размером длиной 3 клетки и шириной 2 клетки создан коридор, 
 в котором находится робот.
 Синим квадратом помечено начальное положение робота. 
 Конечное положение робота помечено красным домиком. 
-Закрашенные клетки поля момечены большим оранжевым квадратом.
 Требуется переместить исполнителя из начального положения в конечное (см. рис.). 
 Решить задачу для всех обстановок робота (написать общий код).
 Решение задачи находится в файле "Task-6-1.py".
