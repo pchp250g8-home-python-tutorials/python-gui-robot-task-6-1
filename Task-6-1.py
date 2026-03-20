@@ -1,4 +1,5 @@
 # --coding:utf-8--
+
 from robot import *
 
 while is_free_right() and is_wall_up():
